@@ -1,7 +1,7 @@
 import numpy as np
 
 def string_intersection(st1,st2):
-    output= ""
+    output = ""
     for i in st1:
         if i in st2 and not i in output:
             output += i

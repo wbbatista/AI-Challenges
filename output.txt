@@ -1,0 +1,20 @@
+A palavra acaa de tamanho 4 tem semelhança 6 = 4+0+1+1 
+
+A palavra caba de tamanho 4 tem semelhança 4 = 4+0+0+0 
+
+A palavra babbcbcc de tamanho 8 tem semelhança 11 = 8+0+1+1+0+1+0+0 
+
+A palavra cbcaaccb de tamanho 8 tem semelhança 12 = 8+0+1+0+0+1+2+0 
+
+A palavra cbbabab de tamanho 7 tem semelhança 7 = 7+0+0+0+0+0+0 
+
+A palavra cbbcbbbcc de tamanho 9 tem semelhança 14 = 9+0+0+3+0+0+0+1+1 
+
+A palavra abacba de tamanho 6 tem semelhança 8 = 6+0+1+0+0+1 
+
+A palavra babbaabcb de tamanho 9 tem semelhança 14 = 9+0+1+2+0+0+1+0+1 
+
+A palavra cabbac de tamanho 6 tem semelhança 7 = 6+0+0+0+0+1 
+
+A palavra aabba de tamanho 5 tem semelhança 7 = 5+1+0+0+1 
+
